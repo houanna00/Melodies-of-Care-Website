@@ -25,5 +25,9 @@ The website aims to promote the mission and activities of our organization, maki
 
 ## Canva Presentation
 - Take a closer look at the features embedded into the website: 
-- <img width="700" alt="image" src="https://github.com/user-attachments/assets/ec8d6ef9-c854-4cfb-8f1e-c1f23af1d770">
+  <img width="700" alt="image" src="https://github.com/user-attachments/assets/ec8d6ef9-c854-4cfb-8f1e-c1f23af1d770">
+  <img width="700" alt="image" src="https://github.com/user-attachments/assets/46f4e5c0-6c56-4c0f-9bf4-825b3df7d6d6">
+  <img width="700" alt="image" src="https://github.com/user-attachments/assets/ad29411a-314d-4362-a6b8-1934c602b71c">
+
+
 
