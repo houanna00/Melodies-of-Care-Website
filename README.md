@@ -6,8 +6,8 @@ Welcome to the Melodies of Care Website repository! This project involves creati
 
 - [Project Description](#project-description)
 - [Features](#features)
+- [Interesting Elements](#interesting-elements)
 - [Pictures](#pictures)
-- [Canva Presentation](#canva-presentation)
 
 ## Project Description
 
@@ -23,6 +23,16 @@ The website aims to promote the mission and activities of our organization, maki
 - **About Us Page**: Insights into the organization's mission, values, and history.
 - **Accessibility**: The website is designed with accessibility in mind, using color schemes and text contrasts that are accessible to users with visual impairments.
 - **Responsive Design**: The website is mobile and iPad friendly, ensuring a seamless experience across different devices.
+
+## Interesting Elements
+
+This website includes several interesting elements that enhance the user experience:
+
+- **Infinite Scrolling Header**: A header that continuously scrolls, providing a dynamic and engaging visual effect.
+- **Flip Card Feature**: Interactive cards that flip to reveal additional information on the reverse side.
+- **Drop Down Feature for Emails**: A convenient drop-down menu for accessing email links and other contact information.
+- **Embedded Links for Forms**: Easy access to forms through embedded links, making it simpler for users to sign up or provide feedback.
+
 
 ## Pictures
 - Here are some screenshots and images related to the project:
