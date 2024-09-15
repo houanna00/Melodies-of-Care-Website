@@ -27,7 +27,11 @@ The website aims to promote the mission and activities of our organization, maki
 ## Pictures
 - Here are some screenshots and images related to the project:
 
-Home Page <img width="233" alt="image" src="https://github.com/user-attachments/assets/19bc85d3-2771-4e5a-b057-e765f59da5a5"> Members/Locations Page <img width="233" alt="image" src="https://github.com/user-attachments/assets/86318f1c-8acc-41ba-9fa4-65c3039a1ac9"> About Us Page <img width="233" alt="image" src="https://github.com/user-attachments/assets/9e2fb6fc-2ac6-4d80-b218-2cf9feb24ce0">
+Home Page 
+<img width="233" alt="image" src="https://github.com/user-attachments/assets/19bc85d3-2771-4e5a-b057-e765f59da5a5"> Members/Locations Page 
+<img width="233" alt="image" src="https://github.com/user-attachments/assets/86318f1c-8acc-41ba-9fa4-65c3039a1ac9"> 
+About Us Page 
+<img width="233" alt="image" src="https://github.com/user-attachments/assets/9e2fb6fc-2ac6-4d80-b218-2cf9feb24ce0">
 
 
 
