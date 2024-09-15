@@ -24,5 +24,6 @@ The website aims to promote the mission and activities of our organization, maki
 - **Responsive Design**: The website is mobile and iPad friendly, ensuring a seamless experience across different devices.
 
 ## Canva Presentation
-- Take a closer look at the features embedded into the website through this presentation: 
-- [<img width="961" alt="image" src="https://github.com/user-attachments/assets/d3d893b7-638c-4827-b3ed-58a45d7b2bab">]([url](https://www.canva.com/design/DAF1gtW3QyQ/W0s2KT4uEoPqx3E_n0yHOw/view?utm_content=DAF1gtW3QyQ&utm_campaign=designshare&utm_medium=link&utm_source=editor))
+- Take a closer look at the features embedded into the website: 
+- <img width="700" alt="image" src="https://github.com/user-attachments/assets/ec8d6ef9-c854-4cfb-8f1e-c1f23af1d770">
+
