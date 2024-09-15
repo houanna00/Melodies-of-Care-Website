@@ -1,6 +1,6 @@
 # Melodies of Care Volunteer Organization Website
 
-Welcome to the Melodies of Care Website repository! This project involves creating a website from scratch using HTML and CSS for a college volunteer organization focused on combining music and healthcare. Our services provide opportunities for students to perform at the University of Michigan hospital and senior assisted living facilities.
+Welcome to the Melodies of Care Website repository! This project involves creating a website from scratch using HTML and CSS for a college volunteer organization focused on combining music and healthcare. Our services provide opportunities for students to perform at the University of Michigan hospital and senior assisted living facilities in the Ann Arbor area.
 
 ## Table of Contents
 
