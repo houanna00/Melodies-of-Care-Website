@@ -6,6 +6,7 @@ Welcome to the Melodies of Care Website repository! This project involves creati
 
 - [Project Description](#project-description)
 - [Features](#features)
+- [Pictures](#pictures)
 - [Canva Presentation](#canva-presentation)
 
 ## Project Description
@@ -23,11 +24,18 @@ The website aims to promote the mission and activities of our organization, maki
 - **Accessibility**: The website is designed with accessibility in mind, using color schemes and text contrasts that are accessible to users with visual impairments.
 - **Responsive Design**: The website is mobile and iPad friendly, ensuring a seamless experience across different devices.
 
-## Canva Presentation
-- Take a closer look at the features embedded into the website: 
-  <img width="700" alt="image" src="https://github.com/user-attachments/assets/ec8d6ef9-c854-4cfb-8f1e-c1f23af1d770">
-  <img width="700" alt="image" src="https://github.com/user-attachments/assets/46f4e5c0-6c56-4c0f-9bf4-825b3df7d6d6">
-  <img width="700" alt="image" src="https://github.com/user-attachments/assets/ad29411a-314d-4362-a6b8-1934c602b71c">
+## Pictures
+- Here are some screenshots and images related to the project:
+
+Home Page
+<img width="233" alt="image" src="https://github.com/user-attachments/assets/19bc85d3-2771-4e5a-b057-e765f59da5a5">
+
+Members/Locations Page
+<img width="443" alt="image" src="https://github.com/user-attachments/assets/86318f1c-8acc-41ba-9fa4-65c3039a1ac9">
+
+About Us Page
+<img width="435" alt="image" src="https://github.com/user-attachments/assets/9e2fb6fc-2ac6-4d80-b218-2cf9feb24ce0">
+
 
 
 
